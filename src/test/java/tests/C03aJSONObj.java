@@ -3,7 +3,7 @@ package tests;
 import org.json.JSONObject;
 import org.junit.Test;
 
-public class C3aJSONObj {
+public class C03aJSONObj {
 
     /*
            Asagidaki JSON Objesini olusturup konsolda yazdirin.

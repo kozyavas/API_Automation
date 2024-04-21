@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class C4aPUT {
+public class C04aPUT {
     /*
         C4_Put_ResponseBilgileriAssertion
                 https://jsonplaceholder.typicode.com/posts/70 url’ine asagidaki Json

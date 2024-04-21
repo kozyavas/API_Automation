@@ -1,6 +1,5 @@
 package tests;
 
-import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.hamcrest.Matchers;
 import org.json.JSONObject;
@@ -9,7 +8,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
-public class C6aPOST {
+public class C06aPOST {
 
 //    POST: Yeni kaynak oluşturmak veya veri göndermek için kullanılır.
 //    PUT: Varolan bir kaynağı güncellemek için kullanılır.
